@@ -34,26 +34,26 @@ database-system-homework-1/
 > [!NOTE]
 > Requires Node.js v20 or higher.
 
-Clone the repository.
+1. Clone the repository.
 
-```bash
-git clone https://github.com/zyx1121/database-system-homework-1.git
-cd database-system-homework-1
-```
+   ```bash
+   git clone https://github.com/zyx1121/database-system-homework-1.git
+   cd database-system-homework-1
+   ```
 
-Install dependencies.
+2. Install dependencies.
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
-Run the development server.
+3. Run the development server.
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Reference
 
